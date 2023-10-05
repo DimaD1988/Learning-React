@@ -1,1 +1,1 @@
-Learning-React lessons. Coding example / exersice ONLY.
+Learning-React lessons. Coding example / exercise ONLY.
